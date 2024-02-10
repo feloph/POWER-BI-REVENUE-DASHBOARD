@@ -1,1 +1,1 @@
-# POWER-BI-REVENUE-DASHBOARD
+This project was set to generate insight on QA sales/revenue using Power BI
